@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mitibirru.github.io/csb-v8moo/static/css/main.7d757951.chunk.css",
+    "main.js": "https://mitibirru.github.io/csb-v8moo/static/js/main.2c6e87b8.chunk.js",
+    "main.js.map": "https://mitibirru.github.io/csb-v8moo/static/js/main.2c6e87b8.chunk.js.map",
+    "runtime-main.js": "https://mitibirru.github.io/csb-v8moo/static/js/runtime-main.7877f240.js",
+    "runtime-main.js.map": "https://mitibirru.github.io/csb-v8moo/static/js/runtime-main.7877f240.js.map",
+    "static/js/2.c79bfdd1.chunk.js": "https://mitibirru.github.io/csb-v8moo/static/js/2.c79bfdd1.chunk.js",
+    "static/js/2.c79bfdd1.chunk.js.map": "https://mitibirru.github.io/csb-v8moo/static/js/2.c79bfdd1.chunk.js.map",
+    "index.html": "https://mitibirru.github.io/csb-v8moo/index.html",
+    "static/css/main.7d757951.chunk.css.map": "https://mitibirru.github.io/csb-v8moo/static/css/main.7d757951.chunk.css.map",
+    "static/js/2.c79bfdd1.chunk.js.LICENSE.txt": "https://mitibirru.github.io/csb-v8moo/static/js/2.c79bfdd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7877f240.js",
+    "static/js/2.c79bfdd1.chunk.js",
+    "static/css/main.7d757951.chunk.css",
+    "static/js/main.2c6e87b8.chunk.js"
+  ]
+}
